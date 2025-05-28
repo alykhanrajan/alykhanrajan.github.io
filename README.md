@@ -19,8 +19,10 @@ I am hoping to transition my career into data science and technology consulting 
  
 ## Projects
 [**SQL**](https://github.com/alykhanrajan/SQL-Projects/)
-[**Power BI**]
-[**Python**]
+
+[**Power BI**](https://github.com/alykhanrajan/Power-BI-Projects)
+
+[**Python**](https://github.com/alykhanrajan/Python-Projects)
 
 ## Contact
 [**LinkedIn**](https://www.linkedin.com/in/alykhanrajan/)
