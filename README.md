@@ -18,9 +18,9 @@ I am hoping to transition my career into data science and technology consulting 
    - Association of Certified Fraud Examiners
  
 ## Projects
+[SQL Projects](https://github.com/alykhanrajan/SQL-Projects/)
 
-
-#### Contact
+## Contact
 [**LinkedIn**](https://www.linkedin.com/in/alykhanrajan/)
 
 [**Email**](mailto:alykhannrajan@gmail.com)
