@@ -1,4 +1,6 @@
 # Aspiring Data Scientist
+I am a finance and accounting professional with over 12 years of experience in financial analysis, strategic planning, process improvement, and leading cross-functional teams across diverse industries.
+I am hoping to transitioning into data science and technology consulting to align my proven analytical expertise and strategic mindset with my deep passion for data-driven innovation and complex problem-solving.
 
 ## Technical Skills
 - **Data Science & Analytics**: Data Analytics Tools (Power BI, SQL, Python), Generative AI, Machine Learning
@@ -6,7 +8,19 @@
 - **Financial Tools & ERP Systems**: Oracle (Fusion, OTBI), PeopleSoft (S4HANA, 1GX, IMAGIS, nVision), CaseWare
    
 ## Education
-- **B. Comm.** - *Accounting, Management Information Systems* - University of Alberta					       		
-- **Chartered Professional Accountant (CPA)** - CPA Alberta, Strategic Leadership Program        		
-- **Certified Management Accountant (CMA)** - CPA Alberta, Strategic Leadership Program
-- **Certified Fraud Examiner (CFE)** - Association of Certified Fraud Examiners
+- **B. Comm.** - *Accounting, Management Information Systems*
+   - University of Alberta					       		
+- **Chartered Professional Accountant (CPA)**
+   - CPA Alberta, Strategic Leadership Program        		
+- **Certified Management Accountant (CMA)**
+   - CPA Alberta, Strategic Leadership Program
+- **Certified Fraud Examiner (CFE)**
+   - Association of Certified Fraud Examiners
+ 
+## Projects
+
+## Contact Me
+[**LinkedIn**](https://www.linkedin.com/alykhanrajan)
+[**Email**](mailto:alykhannrajan@gmail.com)
+ 
+
